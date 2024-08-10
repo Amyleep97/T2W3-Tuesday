@@ -41,3 +41,16 @@
 
 ![Sets Union](https://github.com/user-attachments/assets/44f75c63-8323-48e7-9801-a8007f8af758)
 
+# Sets Intersection
+
+![Sets Intersection](https://github.com/user-attachments/assets/98c3fd5c-e6a6-4e9d-be90-cd057164d2c3)
+
+# Sets. Relative complement
+
+![Sets Relative complement ](https://github.com/user-attachments/assets/b0f305bb-f010-4415-9239-26efac5fe19a)
+
+# Sets. Complement.
+
+![Set complement](https://github.com/user-attachments/assets/c4b32a5d-a4a7-49d0-a825-2f135677151a)
+
+
